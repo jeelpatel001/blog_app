@@ -44,7 +44,7 @@ lib/
 1. **Clone the repo**
 
 ```bash
-git clone https://github.com/yourusername/blog_app.git
+git clone https://github.com/jeelpatel001/blog_app.git
 cd blog_app
 ```
 
