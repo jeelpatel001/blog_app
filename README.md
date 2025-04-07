@@ -75,6 +75,3 @@ flutter run
 ## 👨‍💻 Developer
 
 **Jeel Bhensadadiya**
-
-- 🌐 [Portfolio / LinkedIn / Website if any]
-- 💻 Flutter Developer | Full Stack Enthusiast
